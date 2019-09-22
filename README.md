@@ -24,19 +24,20 @@ npm install
  
  ### **After Cloning**
 
-- Write down the **insta_username** in the *Function* given Below in the **index.js** file.
+- Write down the **insta_username** in the **Function** given Below in the **index.js** file.
 
 #### Function:
 ```js
 instadetailscrapper("insta_username")
 ```
->> First of all change the **"insta_username"** in the **Above Function** with **Real instagram username**
+> First of all change the **"insta_username"** in the **Above Function** with **Real instagram username**
+<br>
 
-Run the command given below in the **Terminal**
+- Run the command given below in the **Terminal**
 ```
 npm start
 ```
-
+<br>
 - This will Automatically download the **Insta Profile Pic** in the **Insta Profile Images Folder** (this folder, you will see after cloning the project) 
 - It will also  provide the **Following Details** of that user in the **Terminal** **-->**
    - Account Type -- (Public or Private) 
