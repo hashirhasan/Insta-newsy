@@ -38,6 +38,7 @@ instadetailscrapper("insta_username")
 npm start
 ```
 <br>
+
 - This will Automatically download the **Insta Profile Pic** in the **Insta Profile Images Folder** (this folder, you will see after cloning the project) 
 - It will also  provide the **Following Details** of that user in the **Terminal** **-->**
    - Account Type -- (Public or Private) 
