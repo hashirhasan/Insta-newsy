@@ -1,6 +1,6 @@
 # Insta-Newsy
 
-> Download the **IMAGES** of low as well as high resolution and get the **DETAILS** of an Instagram User
+> Download the **IMAGES** of Low as well as High resolution and get much of the **DETAILS** of an Instagram User
 
 ## Instruction for Use:
  
