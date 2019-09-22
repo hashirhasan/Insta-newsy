@@ -5,7 +5,8 @@
   <img src="https://travis-ci.org/hashirhasan/Insta-newsy.svg?branch=master">
   </a>
 </p>
-> Download the **IMAGES** of Low as well as High resolution and get much of the **DETAILS** of an Instagram User
+
+>  Download the **IMAGES** of Low as well as High resolution and get much of the **DETAILS** of an Instagram User
 
 ## Instruction for Use:
  
