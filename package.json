@@ -1,17 +1,17 @@
 {
   "name": "insta-scrapper",
   "version": "1.0.0",
-  "description": "",
+  "description": "used for the extracting the details and profile picture of an instagram user",
   "main": "index.js",
   "scripts": {
-    "test":"node index.js",
+    "test": "node test.js",
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hashirhasan/Insta-newsy.git"
   },
-  "author": "",
+  "author": "Hashir Hasan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hashirhasan/Insta-newsy/issues"

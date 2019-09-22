@@ -51,7 +51,7 @@ let user_data={
 }
 
 console.log({user_data})
-console.log("\nIMAGES(Low and Hd Quality both) ARE DOWNLOADED TO THE 'Insta Profile Images' FOLDER")
+console.log("\nIMAGES(Low and Hd Quality both) ARE DOWNLOADED TO THE 'sample images' FOLDER")
 }catch(err){
   
   console.log("something went wrong or your username is incorrect")
@@ -60,9 +60,9 @@ console.log("\nIMAGES(Low and Hd Quality both) ARE DOWNLOADED TO THE 'Insta Prof
 
 async function saveimagetodisk(user)
 {
-    regularrequest.get(user.profile_pic_url).pipe(fs.createWriteStream(`Insta Profile Images/${user.username}_low.png`))
-    regularrequest.get(user.profile_pic_url_hd).pipe(fs.createWriteStream(`Insta Profile Images/${user.username}_hd.png`))
+    regularrequest.get(user.profile_pic_url).pipe(fs.createWriteStream(`sample images/${user.username}_low.png`))
+    regularrequest.get(user.profile_pic_url_hd).pipe(fs.createWriteStream(`sample images/${user.username}_hd.png`))
 }
 
 
-instadetailscrapper("insta_username")
+instadetailscrapper("iamsrk")
