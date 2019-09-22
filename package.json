@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test":"xo && ava",
     "start": "node index.js"
   },
   "repository": {
@@ -22,5 +22,4 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
   }
-
 }
