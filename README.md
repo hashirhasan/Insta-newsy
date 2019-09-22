@@ -1,5 +1,10 @@
-# Insta-Newsy
-
+<p align="center">
+<img src="instagram pic/insta.jpg" width="340">
+<br>
+  <!-- <a>
+  <img src="?branch=master">
+  </a> -->
+</p>
 > Download the **IMAGES** of Low as well as High resolution and get much of the **DETAILS** of an Instagram User
 
 ## Instruction for Use:
