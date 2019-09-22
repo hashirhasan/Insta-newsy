@@ -1,5 +1,5 @@
 <p align="center">
-<img src="instagram pic/insta.jpg" width="340">
+<img src="instagram pic/insta.jpg" width="140">
 <br>
   <!-- <a>
   <img src="?branch=master">
